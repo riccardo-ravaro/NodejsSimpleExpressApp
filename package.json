@@ -1,0 +1,26 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccardoravaro/NodejsSimpleExpressApp.git"
+  },
+  "author": "Riccardo Ravaro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/riccardoravaro/NodejsSimpleExpressApp/issues"
+  },
+  "homepage": "https://github.com/riccardoravaro/NodejsSimpleExpressApp#readme"
+}
