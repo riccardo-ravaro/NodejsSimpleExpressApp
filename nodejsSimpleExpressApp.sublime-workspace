@@ -1,0 +1,1092 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"scripts"
+			],
+			[
+				"get_define",
+				"get_defined_vars"
+			],
+			[
+				"fet",
+				"fetchAllAssoc"
+			],
+			[
+				"$terms",
+				"$terms_query"
+			],
+			[
+				"get_defi",
+				"get_defined_vars"
+			],
+			[
+				"get",
+				"get_tiles_list"
+			],
+			[
+				"til",
+				"tilesListCtr"
+			],
+			[
+				"ti",
+				"tilesListCtr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nEmmet Css Snippets\n------------------\n\n  \n  Emmet CSS Snippets\n  \n  Thank you for installing Emmet CSS Snippets. This package is an alternative for Emmet and a few snippet triggers were changed, please check the cheat sheet at http://p233.github.io/Emmet-Css-Snippets-for-Sublime-Text-2/\n  \n  ## Features\n  \n  * Works with default CSS package, [LESS](https://sublime.wbond.net/packages/LESS), and [Syntax Highlighting for Sass](https://sublime.wbond.net/packages/Syntax%20Highlighting%20for%20Sass)\n  * Two versions: `has-Prefix` or `no-Prefix`\n  * Smart completion rule: propery snippes will no longer popup when you typing propery values\n  * Pseudo class completions\n  * Extra propery value completions\n  \n  ## Prefix\n  \n  If you intend to use snippets with no prefix, add `has-Prefix` into the ignored_packages list of your settings file. The other way round, if you intend to use snippets with prefix, add `no-Prefix` into the ignored_packages list.\n  \n  -------------\n  Enjoy coding!\n\n\nSassBeautify\n------------\n\n  The SassBeautify package has been successfully installed.\n  \n  Run the plugin from the command palette:\n  \n  1. Open the command palette (ctrl + shift + p)\n  2. Enter 'SassBeautify'\n  \n  Please report issues here: https://github.com/badsyntax/SassBeautify/issues\n  \n  Created by Richard Willis (badsyntax.co)\n",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "{\n\t\"statusbar_modified_time\": false,\n\t\"statusbar_modified_time_format\": \"%A %b %d %H:%M:%S %Y\",\n\t\"statusbar_modified_time_locale\": \"\",\n\n\t\"statusbar_file_size\": false,\n\n\t\"close_affected_buffers_when_deleting_even_if_dirty\": false,\n\n\t\"hide_open_with_entries_when_there_are_no_applicable\": false,\n\n\t\"confirm_before_deleting\": true,\n\n\t\"confirm_before_permanently_deleting\": true,\n\n\t\"new_files_relative_to_project_root\": false,\n\t\"new_folders_relative_to_project_root\": false,\n\n\t\"disabled_menuitem_edit\": false,\n\t\"disabled_menuitem_edit_to_right\": false,\n\t\"disabled_menuitem_open_run\": false,\n\t\"disabled_menuitem_open_in_browser\": false,\n\t\"disabled_menuitem_open_in_new_window\": false,\n\t\"disabled_menuitem_find_in_project\": false,\n\t\"disabled_menuitem_copy_name\": false,\n\t\"disabled_menuitem_copy_path\": false,\n\t\"disabled_menuitem_copy_path_windows\": true,\n\t\"disabled_menuitem_copy_dir_path\": true,\n\t\"disabled_menuitem_paste_in_parent\": false,\n\t\"disabled_menuitem_empty\": true,\n\n\t//if installed in a default location maybe this works.\n\t\"default_browser\": \"\", //one of this list: firefox, chrome, canary, chromium, opera, safari, ie\n\t\"open_all_browsers\": [\"firefox\", \"chrome\", \"opera\", \"safari\", \"ie\", \"edge\"], //any of this list: firefox, chrome, canary, chromium, opera, safari, ie, edge\n\n\t\"portable_browser\": \"\", // for example:  C:/Program Files (x86)/Nightly/firefox.exe\n\n\t\"disable_send_to_trash\": false,\n\n\t\"use_powershell\": true,\n\n\t\"auto_close_empty_groups\": false,\n\n\t// if you donated set this value to \"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW\"\n\t// to remove the menuitem \"Donate 20$\" from the sidebar context menu.\n\t\"i_donated_to_sidebar_enhancements_developer\": false,\n\n}",
+			"file": "/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 1714,
+				"line_ending": "Unix",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.md",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 141.0,
+		"last_filter": "package insta",
+		"selected_items":
+		[
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"syncing",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tag",
+				"Tag: Close Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"fy",
+				"HTMLPrettify"
+			],
+			[
+				"drus",
+				"Drush: Cron"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"forma",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"linting",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"subli",
+				"SublimeLinter: Next Error"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 440.0,
+		"history":
+		[
+			"jscs . ;",
+			"jscs .",
+			"jsc",
+			"/usr/local/bin/jscs",
+			"/usr/local/bin/jscs -c",
+			"jscs -c",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/riccardoravaro/Documents/web/node/NodejsSimpleExpressApp"
+	],
+	"file_history":
+	[
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Package Syncing.sublime-settings",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/User/Package Syncing.sublime-settings",
+		"/Users/riccardoravaro/Documents/web/node/NodejsSimpleExpressApp/views/index.jade",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/User/JSCS-Formatter.sublime-settings",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/models/Message.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.run.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/models/User.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/controllers/auth.js",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/gulpfile.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/main/main.html",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/components/navbar/navbar.html",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/auth/auth.html",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/components/navbar/navbar.directive.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/package.json",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.config.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.module.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.route.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/auth/auth.controller.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/directives/compareTo.directive.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/main/main.controller.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/index.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_banner.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_mixin.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_helper_classes.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_menu.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/page/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_ghost_button.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_class_script.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_article.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/page--front.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/page/controllers/pageCtr.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/page.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_navicon-transform.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/js/script.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/angular-ui-bootstrap/misc/demo/assets/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/views/mostpopular-list.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/controllers/tiles.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/directives/articlesTileDrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/directives/mostpopularDrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/services/articlesSrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_video--content.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_node_image.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/template.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_tiles.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/views/article-tile.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_article_tile.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_text--content.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_image--content.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/.gitignore",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/region--header.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_style.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_footer.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_login.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/_bootstrap_variables.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_navigation.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_parallex.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_taxonomy.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/Gruntfile.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_minimal.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/html.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/directives/facebooklikesDrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/views/facebooklikes.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/region--footer.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/services/helpers.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/services/searchtiles.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--tutorials.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--artists.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--controllers.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--news.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--software.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/djcontrollerism.com/settings.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bootstrap_subtheme.info",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower.json",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/directives/elemReadydrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/filters/urlfileter.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/filters/doublequoteflt.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/services/slidesSrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/includes/common.inc",
+		"/Users/riccardoravaro/Desktop/debug.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_facebook_likes.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/CHANGELOG.md",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/field--field_tags--article.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/views/terms-filter.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/view-filters-taxonomy_term.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_rrssb.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/libraries/rrssb/scss/rrssb.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_mostpopular.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/vagrant.djcontrollerism.com/settings.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/views/tiles-list.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_media_query.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme/system/page--front.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme/system/region--footer.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme/system/page.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_video.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_image.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_text.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_text-container.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/modules/system/system.admin.inc",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/rrssb/rrssb.info",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_loader.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_animations.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/features/most_popular/most_popular.views_default.inc",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/custom/facebook_likes/facebook_likes.module",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/formsubmit.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/.htaccess",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/custom/facebook_likes/facebook_likes.info",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/directives/elemReadydrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_box.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_override.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_sites.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/views_datasource/views/plugins/views_plugin_style_json.inc",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/.gitignore",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/sites.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_node_article.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/analyticstracking.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/disqus/disqus.admin.inc",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/disqus/disqus.module",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_font.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/_djc_variables.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/services/termsSrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/Vagrantfile"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/assets",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/views_datasource",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/assets",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/views_datasource/views",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/flexslider/theme/flexslider.theme.inc",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auth",
+			"text-container",
+			"inline-block",
+			"display: inline-block;",
+			"display:inline-block;",
+			"inline-block",
+			".image-wrapper",
+			"SmoothScroll",
+			"200",
+			"wrapper",
+			"logo",
+			".admin-menu #nav-container, .admin-menu #side-nav-container, .admin-menu #site-container",
+			"backgrounD",
+			"margin-top: 0px",
+			"margin-top: 0px !important;",
+			"    /* margin-top: 0px !important; */",
+			"240px",
+			"top",
+			"50",
+			"62",
+			"#banner-wrapper ",
+			"menu",
+			".top",
+			"font-weig",
+			"Gotham Narrow",
+			"'Gotham Narrow",
+			"'Gotham Narrow ",
+			"'Gotham Narrow A','Gotham Narrow B','Arial Narrow'",
+			".global-nav",
+			"$mercury",
+			"body",
+			"article-tile",
+			"article-title",
+			".tile-title",
+			"#banner-wrapper",
+			"#banner-wrapper .tile-wrapper",
+			"height: 300px;",
+			"    height: 300px;",
+			"#banner-wrapper",
+			".tile-wrapper",
+			"min-",
+			"border",
+			"articlesSrv",
+			"_node",
+			"transition",
+			"bind",
+			"termsfilters",
+			"radius",
+			"global-nav",
+			"term-filter-container",
+			".rrssb-buttons.large-format li a,.rrssb-buttons.large-format li a .rrssb-text{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;}.rrssb-buttons,.rrssb-buttons li,.rrssb-buttons li a{-moz-box-sizing:border-box;box-sizing:border-box;}.clearfix{*zoom:1;}.clearfix:after{clear:both;}.clearfix:before,.clearfix:after{content:\" \";display:table;}.rrssb-buttons{font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif;height:36px;margin:0;padding:0;width:100%;}.rrssb-buttons li{float:left;height:100%;line-height:13px;list-style:none;margin:0;padding:0 2px;}.rrssb-buttons li.rrssb-email a{background-color:#0a88ff;}.rrssb-buttons li.rrssb-email a:hover{background-color:#006ed6;}.rrssb-buttons li.rrssb-facebook a{background-color:#306199;}.rrssb-buttons li.rrssb-facebook a:hover{background-color:#244872;}.rrssb-buttons li.rrssb-tumblr a{background-color:#32506d;}.rrssb-buttons li.rrssb-tumblr a:hover{background-color:#22364a;}.rrssb-buttons li.rrssb-linkedin a{background-color:#007bb6;}.rrssb-buttons li.rrssb-linkedin a:hover{background-color:#005983;}.rrssb-buttons li.rrssb-twitter a{background-color:#26c4f1;}.rrssb-buttons li.rrssb-twitter a:hover{background-color:#0eaad6;}.rrssb-buttons li.rrssb-googleplus a{background-color:#e93f2e;}.rrssb-buttons li.rrssb-googleplus a:hover{background-color:#ce2616;}.rrssb-buttons li.rrssb-youtube a{background-color:#df1c31;}.rrssb-buttons li.rrssb-youtube a:hover{background-color:#b21627;}.rrssb-buttons li.rrssb-reddit a{background-color:#8bbbe3;}.rrssb-buttons li.rrssb-reddit a:hover{background-color:#62a3d9;}.rrssb-buttons li.rrssb-pinterest a{background-color:#b81621;}.rrssb-buttons li.rrssb-pinterest a:hover{background-color:#8a1119;}.rrssb-buttons li.rrssb-pocket a{background-color:#ED4054;}.rrssb-buttons li.rrssb-pocket a:hover{background-color:#e4162d;}.rrssb-buttons li.rrssb-github a{background-color:#444444;}.rrssb-buttons li.rrssb-github a:hover{background-color:#2b2b2b;}.rrssb-buttons li.rrssb-instagram a{background-color:#517fa4;}.rrssb-buttons li.rrssb-instagram a:hover{background-color:#406582;}.rrssb-buttons li a{background-color:#ccc;border-radius:2px;display:block;font-size:11px;font-weight:bold;height:100%;padding:11px 7px 12px 27px;position:relative;text-align:center;text-decoration:none;text-transform:uppercase;width:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-transition:background-color 0.2s ease-in-out;-moz-transition:background-color 0.2s ease-in-out;-o-transition:background-color 0.2s ease-in-out;transition:background-color 0.2s ease-in-out;}.rrssb-buttons li a .rrssb-icon{display:block;left:10px;padding-top:9px;position:absolute;top:0;width:10%;}.rrssb-buttons li a .rrssb-icon svg{height:17px;width:17px;}.rrssb-buttons li a .rrssb-icon svg path,.rrssb-buttons li a .rrssb-icon svg polygon{fill:#ffffff;}.rrssb-buttons li a .rrssb-text{color:#ffffff;}.rrssb-buttons li a:active{box-shadow:inset 1px 3px 15px 0 rgba(22,0,0,0.25);}.rrssb-buttons li.small a{padding:0;}.rrssb-buttons li.small a .rrssb-icon{left:auto;margin:0 auto;overflow:hidden;position:relative;top:auto;width:100%;}.rrssb-buttons li.small a .rrssb-text{visibility:hidden;}.rrssb-buttons.large-format{height:auto;}.rrssb-buttons.large-format li{height:auto;}.rrssb-buttons.large-format li:first-child:nth-last-child(1) a{font-size:20px;font-size:4vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(2) a,.rrssb-buttons.large-format li:first-child:nth-last-child(2) ~ li a{font-size:16px;font-size:2vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(3) a,.rrssb-buttons.large-format li:first-child:nth-last-child(3) ~ li a{font-size:14px;font-size:.9vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(4) a,.rrssb-buttons.large-format li:first-child:nth-last-child(4) ~ li a{font-size:13px;font-size:1.4vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(5) a,.rrssb-buttons.large-format li:first-child:nth-last-child(5) ~ li a{font-size:13px;font-size:1.2vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(6) a,.rrssb-buttons.large-format li:first-child:nth-last-child(6) ~ li a{font-size:12px;font-size:1.05vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(7) a,.rrssb-buttons.large-format li:first-child:nth-last-child(7) ~ li a{font-size:11px;font-size:.9vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(8) a,.rrssb-buttons.large-format li:first-child:nth-last-child(8) ~ li a{font-size:11px;font-size:.8vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(9) a,.rrssb-buttons.large-format li:first-child:nth-last-child(9) ~ li a{font-size:11px;font-size:.7vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(10) a,.rrssb-buttons.large-format li:first-child:nth-last-child(10) ~ li a{font-size:11px;font-size:.6vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(11) a,.rrssb-buttons.large-format li:first-child:nth-last-child(11) ~ li a{font-size:11px;font-size:.5vw;}.rrssb-buttons.large-format li a{border-radius:0.2em;padding:8.5% 0 8.5% 12%;}.rrssb-buttons.large-format li a .rrssb-icon{height:100%;left:7%;padding-top:0;width:12%;}.rrssb-buttons.large-format li a .rrssb-icon svg{height:100%;width:100%;position:absolute;top:0;}.rrssb-buttons.small-format{padding-top:5px;}.rrssb-buttons.small-format li{height:80%;padding:0 1px;}.rrssb-buttons.small-format li a .rrssb-icon{height:100%;padding-top:0;}.rrssb-buttons.small-format li a .rrssb-icon svg{height:48%;position:relative;top:6px;width:80%;}.rrssb-buttons.tiny-format{height:22px;position:relative;}.rrssb-buttons.tiny-format li{padding-right:7px;}.rrssb-buttons.tiny-format li a{background-color:transparent;padding:0;}.rrssb-buttons.tiny-format li a .rrssb-icon svg{height:70%;width:100%;}.rrssb-buttons.tiny-format li a:hover,.rrssb-buttons.tiny-format li a:active{background-color:transparent;}.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon svg polygon{fill:#0a88ff;}.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#0054a3;}.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon svg polygon{fill:#306199;}.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#18304b;}.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon svg polygon{fill:#32506d;}.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#121d27;}.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon svg polygon{fill:#007bb6;}.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#003650;}.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon svg polygon{fill:#26c4f1;}.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#0b84a6;}.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon svg polygon{fill:#e93f2e;}.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#a01e11;}.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon svg polygon{fill:#df1c31;}.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#84111d;}.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon svg polygon{fill:#8bbbe3;}.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#398bcf;}.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon svg polygon{fill:#b81621;}.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#5d0b11;}.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon svg polygon{fill:#ED4054;}.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#b61124;}.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon svg polygon{fill:#444444;}.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#111111;}.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon svg polygon{fill:#517fa4;}.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#2f4a60;}\nrrssb-button",
+			"rrssb",
+			".facebook_likes",
+			"span4",
+			"span",
+			"tile-content",
+			"dpm",
+			"system_sort_modules_by_info_name",
+			"function system_modules",
+			"system_modules",
+			"embedded-video",
+			"text-container",
+			"image-container",
+			"marin-container",
+			".top a.logo.pull-left {",
+			"logo",
+			"{'display-none' : loading!= true}",
+			"margin-bottom-xs",
+			"tile margin-bottom-xs",
+			"margin-bottom-xs",
+			".margin-bottom-xs",
+			"banner-wrapper",
+			"transition",
+			"facebook_like",
+			"custom_module",
+			"elem-ready",
+			"loaded",
+			"fix",
+			"transition",
+			"play-entries",
+			"media",
+			"padding",
+			"fadeIn",
+			"spinner-logo",
+			"fade",
+			"fade-in",
+			"animate",
+			"ng-app",
+			"tile",
+			"numeric",
+			"tile-content",
+			"tile-content ",
+			"tile",
+			"JSON_BIGINT_AS_STRING",
+			"djc.result",
+			"slogan",
+			"site",
+			"logo",
+			"header",
+			"djcontrollerism.local",
+			"101746158",
+			"top",
+			"block",
+			"permission",
+			"configure",
+			"Configure",
+			"Configure block",
+			".center",
+			"image-container",
+			"page",
+			"disqus",
+			"disquis",
+			"dpm",
+			".play-entries",
+			"nimbussans",
+			"fn",
+			"tilesListCtr",
+			"field_image",
+			"'Montserrat'",
+			"ip",
+			".ghost-white-sm",
+			".ghost-white-sm:hover",
+			"white",
+			".ghost-white-sm",
+			"hover",
+			"@extend %extend_4;",
+			"extend_4",
+			"@extend %extend_3;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@include inline-block;",
+			"facebook_likes",
+			"facebook_like",
+			"sonnox-posts",
+			"scale",
+			"",
+			":hover",
+			":a",
+			"captioncolor",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1380,
+								1380
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1714,
+								1714
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1713,
+										1714
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "notes.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodejsSimpleExpressApp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 782.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
